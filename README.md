@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Serhad</h1>
+<h1 align="center">Hi, I'm Serhad</h1>
 <h3 align="center">I have been interested in computer science, robotics and programming since elementary school. This journey of about 7 years is still going on and I am gaining experience in these subjects day by day.</h3>
 
-- 🔭 I’m currently working on **Nitroxide - A 3D game engine (Java)**
+- 🧑‍💻 I’m currently working on **Nitroxide - A 3D game engine (Java)**
 
-- 🌱 I’m currently learning **Python**
+- 🔎 I’m currently learning **Python**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
