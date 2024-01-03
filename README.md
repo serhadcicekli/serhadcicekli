@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Serhad</h1>
-<h3 align="center">I have been interested in computer science, robotics and programming since elementary school. This journey of about 7 years is still going on and I am gaining experience in these subjects day by day.</h3>
+<h3 align="center">I have been interested in computer science, robotics and programming since primary school, and now i'm 15 years old. This journey of about 7 years is still going on and I am gaining experience in these subjects day by day.</h3>
 
 - 🧑‍💻 I’m currently working on **Nitroxide - A 3D game engine (Java)**
 
