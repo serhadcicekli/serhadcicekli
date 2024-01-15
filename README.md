@@ -12,7 +12,7 @@
 <a href="https://github.com/serhadcicekli/serhadcicekli">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=serhadcicekli&count_private=true&show_icons=true&theme=tokyonight" />
 </a>
-<h2> </h2>
+<h4> </h4>
 <a href="https://github.com/serhadcicekli/serhadcicekli">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=serhadcicekli&layout=compact&theme=tokyonight&langs_count=8" />
 </a>
