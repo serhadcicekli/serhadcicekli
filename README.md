@@ -7,11 +7,11 @@
 
 <h3 align="left">Statistics</h3>
 <a href="https://github.com/serhadcicekli/serhadcicekli">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=serhadcicekli&count_private=true&show_icons=true&theme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=serhadcicekli&count_private=true&show_icons=true" />
 </a>
 <h6> </h6>
 <a href="https://github.com/serhadcicekli/serhadcicekli">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=serhadcicekli&layout=compact&theme=dark&langs_count=8" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=serhadcicekli&layout=compact&langs_count=8" />
 </a>
 
 
