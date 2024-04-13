@@ -3,6 +3,7 @@
 
 
 - 🔎 I’m currently learning **Python**
+- 🧑‍💻 I'm currently developing a **multiplatform game engine** with **Java**
 
 
 <a href="https://github.com/serhad0">My other account</a>
