@@ -3,7 +3,6 @@
 
 
 - 🔎 I’m currently learning **Python** and **Full-Stack Web Development** with **JavaScript, PHP**
-- 🧑‍💻 I'm currently developing a **multiplatform game engine**
 
 
 <a href="https://github.com/serhad0">My other account</a>
