@@ -1,9 +1,5 @@
 <h1 align="center">Hi, I'm Serhad</h1>
-<h3 align="center">I have been interested in computer science, robotics and programming since primary school, and now i'm 15 years old. This journey of about 7 years is still going on and I am gaining experience in these subjects day by day.</h3>
-
-
-- 🔎 I’m currently learning **Python** and **Full-Stack Web Development** with **JavaScript, PHP**
-
+<h3 align="center">I have been interested in computer science, robotics and programming since primary school, and now i'm 16 years old. This journey of about 7 years is still going on and I am gaining experience in these subjects day by day.</h3>
 
 <a href="https://github.com/serhad0">My other account</a>
 <h3 align="left">Languages and Tools:</h3>
